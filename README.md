@@ -38,3 +38,6 @@
  - If the wheel lands on “bankrupt”, the player loses their turn and loses their money but they keep all of the prizes they have won so far.
 
 #### The game continues until the entire phrase is revealed (or one player guesses the complete phrase)
+
+![Game Play Image](/Game.png?raw=true "Game Play")
+
